@@ -11,3 +11,4 @@ delete directory
 change working directory to previous one
 list all kinds of files
 prints the type of file iamafile
+creates a symbolic link
