@@ -8,3 +8,4 @@ creates directory in the tmp directory
 move file from tmp to first directory
 delete file
 delete directory
+change working directory to previous one
