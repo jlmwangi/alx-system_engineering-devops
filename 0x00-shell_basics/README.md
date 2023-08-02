@@ -9,3 +9,4 @@ move file from tmp to first directory
 delete file
 delete directory
 change working directory to previous one
+list all kinds of files
