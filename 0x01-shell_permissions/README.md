@@ -3,3 +3,4 @@
 - prints the groups the current user is part of
 - changes a files owner
 - creates empty file hello
+- adds execute permission to hello file owner
