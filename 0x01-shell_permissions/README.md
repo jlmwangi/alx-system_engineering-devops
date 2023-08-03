@@ -7,3 +7,4 @@
 - allows multiple permissions
 - adds permissions to everybody
 - sets permissions to other users
+- sets the mode of  hello in long format
