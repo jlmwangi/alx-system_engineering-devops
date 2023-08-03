@@ -5,3 +5,4 @@
 - creates empty file hello
 - adds execute permission to hello file owner
 - allows multiple permissions
+- adds permissions to everybody
