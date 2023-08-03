@@ -11,3 +11,4 @@
 - sets reference of hello to olleh
 - change subdirectories permissions
 - creates directories
+- change group
