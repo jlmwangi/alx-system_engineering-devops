@@ -8,3 +8,4 @@
 - adds permissions to everybody
 - sets permissions to other users
 - sets the mode of  hello in long format
+- sets reference of hello to olleh
