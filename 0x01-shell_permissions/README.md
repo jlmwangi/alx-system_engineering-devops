@@ -10,3 +10,4 @@
 - sets the mode of  hello in long format
 - sets reference of hello to olleh
 - change subdirectories permissions
+- creates directories
