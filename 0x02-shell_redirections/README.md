@@ -20,3 +20,4 @@
 20. replace characters
 21. removes letter c
 22. reverses input
+23. displays user and home directories
