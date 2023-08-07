@@ -6,3 +6,4 @@
 6. displays the first 10 lines
 7. displays the third line
 8. cuts iron
+9. writes into the file ls_cwd_content
