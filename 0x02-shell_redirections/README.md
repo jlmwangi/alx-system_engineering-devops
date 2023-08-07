@@ -8,3 +8,4 @@
 8. cuts iron
 9. writes into the file ls_cwd_content
 10. duplicates last line
+11. removes .js files
