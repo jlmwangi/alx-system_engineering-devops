@@ -17,3 +17,4 @@
 17. what comes next
 18. excludes bin
 19. files starting with a letter
+20. replace characters
