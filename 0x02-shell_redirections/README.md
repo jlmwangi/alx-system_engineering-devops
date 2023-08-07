@@ -19,3 +19,4 @@
 19. files starting with a letter
 20. replace characters
 21. removes letter c
+22. reverses input
