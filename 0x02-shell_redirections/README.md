@@ -13,3 +13,4 @@
 13. displays 10 newest files
 14. creates unique
 15. displays root from /etc/passwd
+16. counts that word
