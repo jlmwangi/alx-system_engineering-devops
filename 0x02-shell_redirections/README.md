@@ -10,3 +10,4 @@
 10. duplicates last line
 11. removes .js files
 12. counts the number of directories
+13. displays 10 newest files
