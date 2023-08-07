@@ -1,2 +1,2 @@
 #!/bin/bash
-rev < input_file
+echo " input_file" | rev
