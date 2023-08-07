@@ -1,2 +1,2 @@
 #!/bin/bash
-sort < input_words | uniq > output_unique_words
+sort input_words | uniq > output_unique_words
