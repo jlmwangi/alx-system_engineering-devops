@@ -5,3 +5,4 @@
 5. displays last lines of a file
 6. displays the first 10 lines
 7. displays the third line
+8. cuts iron
