@@ -8,3 +8,4 @@
 8. creates global variable
 9. adds 128 to trueknowledge
 10. divides power
+11. displays results of breath
