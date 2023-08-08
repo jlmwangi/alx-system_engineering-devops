@@ -10,3 +10,4 @@
 10. divides power
 11. displays results of breath
 12. converts to base 10
+13. prints combinations
