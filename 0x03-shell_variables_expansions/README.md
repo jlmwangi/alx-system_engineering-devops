@@ -5,3 +5,4 @@
 5. prints environment variables
 6. lists all variables and functions
 7. creates local variable
+8. creates global variable
