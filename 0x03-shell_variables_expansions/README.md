@@ -2,3 +2,4 @@
 2. prints hello user
 3. takes determined action
 4. counts the number of directories
+5. prints environment variables
