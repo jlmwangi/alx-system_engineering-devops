@@ -7,3 +7,4 @@
 7. creates local variable
 8. creates global variable
 9. adds 128 to trueknowledge
+10. divides power
