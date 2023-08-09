@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.2f\n" "$num_value"  > NUM
+printf "%f.2\n" $NUM
