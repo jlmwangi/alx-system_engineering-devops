@@ -12,3 +12,4 @@
 12. converts to base 10
 13. prints combinations
 14. print float
+15. converts to 16
