@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+#displays numbers 1 to 100
+
+i=1
+
+while ((i <= 100)); do
+    fizzbuzz=""
+    if ((i % 3 == 0)); then
+	fizzbuzz+="Fizz"
+    fi
+    if ((i % 5 == 0)); then
+	fizzbuzz+="Buzz"
+    fi
+    if [[ -z $fizzbuzz ]]; then
+	echo "$i"
+    else
+	echo "$fizzbuzz"
+    fi
+    ((i++))
+done
