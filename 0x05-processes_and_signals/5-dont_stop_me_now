@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#uses kill to stop infinity and beyond process
+
+infinity_pid=$!
+kill "$infinity_pid"
