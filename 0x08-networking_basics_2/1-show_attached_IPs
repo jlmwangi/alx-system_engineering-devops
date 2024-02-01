@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# displays all active IPv4 IPs on machine its executed on
+
+ifconfig_output=$(ip addr show | grep -Eo ' (addr:)?([0-9]*\.){3}[0-9]*')
+
+echo "$ifconfig_output"
