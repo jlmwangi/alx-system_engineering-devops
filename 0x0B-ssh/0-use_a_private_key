@@ -2,4 +2,4 @@
 # uses ssh to connect to the server
 
 
-ssh -i ~/.ssh/school ubuntu@127.0.1.1
+ssh -i ~/.ssh/school ubuntu@192.168.56.1
